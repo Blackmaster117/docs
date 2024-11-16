@@ -23,7 +23,7 @@ If there are 2 Custom Apps with the same name, the extension within the Home dir
 After placing the Custom App file into correct folder, run following command to install it:
 
 ```bash
-spicetify config custom_apps <file name>
+spicetify config custom_apps <folder name>
 spicetify apply
 ```
 
